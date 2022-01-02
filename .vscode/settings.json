@@ -1,0 +1,22 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "T24 Bilder",
+        "T23 Zeichnen",
+        "T22 Swing Menubar",
+        "T21 Swing FensterButton",
+        "T20 Datein",
+        "T19 HashmapHashset",
+        "T18 ArrayList",
+        "T17 Threads",
+        "T16OOP_Enums",
+        "T15OOP_VererbungInterfaces",
+        "T14OOP_StaticFinal",
+        "T13OOP_MethodenForClass",
+        "T12OOP_Constructor",
+        "T11OOP_GetterundSetter",
+        "T10OOP_ObjekteundKlassen",
+        "T26 MousListener"
+    ],
+    "java.project.outputPath": "bin"
+}
